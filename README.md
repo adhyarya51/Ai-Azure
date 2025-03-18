@@ -1,2 +1,2 @@
-# Ai-Azure
-belajar azure
+# mslearn-document-intelligence
+Lab files for Azure AI Document Intelligence modules
