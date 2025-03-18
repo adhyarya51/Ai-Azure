@@ -1,0 +1,2 @@
+# Ai-Azure
+belajar azure
